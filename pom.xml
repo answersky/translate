@@ -19,7 +19,7 @@
         <start-class>cn.liu.main.Main</start-class>
     </properties>
 
-    <packaging>war</packaging>
+    <packaging>jar</packaging>
 
     <!-- Add typical dependencies for a web application -->
     <dependencies>
