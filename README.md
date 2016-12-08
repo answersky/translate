@@ -1,2 +1,4 @@
-# translate
-english  to chinese or chinese to english
+translate
+=========
+        
+        中英文翻译GoogleTranslate
